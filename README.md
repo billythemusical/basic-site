@@ -1,3 +1,3 @@
 # basic site
 
-Pushing new changes now.
+Pulling new changes now.
